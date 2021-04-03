@@ -1,0 +1,36 @@
+body {
+    font-family: 'Crimson Text', serif;
+    background-color: #1D1E20;
+    color: white;
+}
+
+
+.first-txt {
+    position: absolute;
+    font-size: 50px;
+    bottom: -5px;
+    left: 160px;
+    color: white;
+}
+
+.second-txt {
+    position: absolute;
+    font-size: 25px;
+    bottom: -25px;
+    left: 220px;
+    color: #538069;
+}
+
+i{
+    color: #538069;
+    font-size: 20px;
+}
+
+p{
+    color: #6d6d6d;
+}
+
+.h1{
+    font-size: 50px;
+}
+
